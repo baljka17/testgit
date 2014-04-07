@@ -1,4 +1,6 @@
 <?php
+
+// This is a child branch!
 	get_header();
 
 	global $smof_data;
