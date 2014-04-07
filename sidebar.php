@@ -1,3 +1,4 @@
+<!-- Child changes 2 -->
 <div class="col-md-3">
 	<div class="sidebar">
 		<?php
