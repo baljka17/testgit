@@ -5,7 +5,7 @@ global $smof_data, $layout_sidebar;
 
 $prefix = 'search';
 
-
+// commit 3
 $content_class = 'col-md-9';
 $layout_sidebar = 'right';
 if ( isset($smof_data[$prefix.'_sidebar_type']) && $smof_data[$prefix.'_sidebar_type'] == 'left') {
