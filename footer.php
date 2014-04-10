@@ -1,4 +1,6 @@
 <?php global $smof_data; 
+
+//funny changes in footer tor cherry pick!
 if ( isset($smof_data['footer']) && $smof_data['footer'] == 1) {
     $layout = isset($smof_data['footer_layout']) ? $smof_data['footer_layout'] : 3;
     switch ($layout) {
