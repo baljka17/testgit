@@ -24,6 +24,7 @@
 	<!-- Favicons -->
 	<?php tt_icons(); ?>
    	<?php
+   	//commit6
    		global $smof_data;
 
    		$body_classes = $nav_fixed = '';
