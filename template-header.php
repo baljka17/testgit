@@ -2,7 +2,7 @@
 
 getPageSlider(false);
 
-// Commit 5
+
 
 /* Check Title Enabled
 ==============================*/
