@@ -1,6 +1,7 @@
 <?php
 /*
  * Template Name: Blank Page Template
+ * Child changes 1
  */
 ?>
 <!DOCTYPE HTML>
