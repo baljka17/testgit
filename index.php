@@ -8,7 +8,7 @@
 
 <!-- Start Content
 ================================================== -->
-<section class="primary section">
+<section class="primary section custom-lorem-class111111111">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
